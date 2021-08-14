@@ -1,0 +1,7 @@
+#EXTM3U#EXT-X-SESSION-DATA:DATA-ID="com.xui._r3"
+
+
+#EXTINF:-1 tvg-logo="http://cdn99.one:80/images/d6ac2c881e628596c06aeea6fdef544c.jpg" group-title="filmes|urso",O Último Mercenário
+http://138.199.50.93/deliver/115505.mp4
+#EXTINF:-1 tvg-logo="http://cdn99.one:80/images/b3ddcc8957d42949d758cf84ee3b911c.jpg" group-title="canais|pato",Mundo em Caos
+http://138.199.50.93/deliver/115504.mp4
